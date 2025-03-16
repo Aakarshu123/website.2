@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Header Section -->
+<header>
+  <div class="container header-content">
+    <div class="profile">
+      <img src="p.1.jpg" alt="Profile Picture">
+      <div class="bio">
+        <h1>Aakarshi Bhawsar</h1>
+        <p>Visual Communication Designer</p>
+       
+          </p>
+        <a href="resume.pdf" download class="btn">Download Resume</a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Projects Section -->
+<section class="projects">
+  <div class="container">
+    <h2>My Best Works</h2>
+    <div class="project-grid">
+      <div class="project">
+        <img src="biook.9.jpg" alt="Project 1">
+        <div class="project-info">
+          <h3>Book Cover Design</h3>
+          <p>The essence of The Inheritance Cycle trilogy</p>
+          <a href="ppt Inheritance cycle beh.pdf" download class="btn">more...</a>
+          
+        </div>
+      </div>
+      <div class="project">
+        <img src="o.3.jpg" alt="Project 2">
+        <div class="project-info">
+          <h3>Brand Guideliness</h3>
+          <p>RIYAASAT-Restoring Heritage, Sustaining Ecosystems</p>
+          <a href="Riyaasat.pdf" download class="btn">more...</a>
+        </div>
+      </div>
+      <div class="project">
+        <img src="card.1.jpg" alt="Project 3">
+        <div class="project-info">
+          <h3>Game Design</h3>
+          <p>Fizz-OFF Save the Bubble from Getting Trapped!</p>
+          <a href="GameJam.pdf" download class="btn">more...</a>
+        </div>
+      </div>
+      <div class="project">
+        <img src="mag.8.png" alt="Project 3">
+        <div class="project-info">
+          <h3>Magazine</h3>
+          <p>ARPANAM: Celebrating the Sacred Art of Serving Food in Hinduism.</p>
+          <a href="Magzine/" download class="btn">more...</a>
+        </div>
+    </div>
+ 
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section class="contact">
+  <div class="container">
+    <h2>Get in Touch</h2>
+    <div class="contact-links">
+      <a href="mailto:yourname@example.com" target="_blank" class="contact-item">📧 aakarshibhawsar@gmail.com</a>
+      <a href="https://www.linkedin.com/in/yourname" target="_blank" class="contact-item">🔗 http://linkedin.com/in/aakarshi-bhawsar-53160920b</a>
+    
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
